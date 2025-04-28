@@ -1,7 +1,6 @@
 ## Hi I'm Naira 
 
 I'm a High school student. (Batch-29)</br>
-Specialized in HTML, CSS, JS, PYTHON</br>
 GFX at Cherielle</br>
 
 
